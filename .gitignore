@@ -1,5 +1,7 @@
 # Adding config.py file. 
 api_keys.py
+VacationPy.ipynb
+WeatherPy.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
